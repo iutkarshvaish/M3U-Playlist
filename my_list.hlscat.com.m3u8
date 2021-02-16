@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country=" tvg-logo="" group-title="Undefined",hlscat.com
+https://hlscat.com/assets/videos/lazycat-hlscat.com.mp4
